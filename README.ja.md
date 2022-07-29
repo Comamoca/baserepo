@@ -9,7 +9,7 @@
 # 🦊 baserepo
 
 
-This is Comamoca's template repository.
+これはComamocaのテンプレートリポジトリです。
 
 </div>
 
