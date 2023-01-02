@@ -6,9 +6,15 @@
 ![Open Issues](https://img.shields.io/github/issues-raw/Comamoca/baserepo?style=flat-square)
 ![Bug Issues](https://img.shields.io/github/issues/Comamoca/baserepo/bug?style=flat-square)
 
-# 🦊 baserepo
+<img src="https://emoji2svg.deno.dev/api/🦊" alt="eyecatch" height="100">
+
+# baserepo
 
 This is Comamoca's template repository.
+
+<br>
+<br>
+
 
 </div>
 
