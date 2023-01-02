@@ -31,9 +31,6 @@
 ```
 # ここに使い方を書きましょう。
 ```
-- How to use
-- It is also possible to make bullet points
-- It ’s good.
 
 - 使い方を書きましょう。
 - 箇条書きにすると、
